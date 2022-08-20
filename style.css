@@ -1,0 +1,47 @@
+img
+{
+    height: 200px;
+    margin: 10px;
+}
+h1
+{
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial;
+    font-weight: bold;
+    color: rgb(130, 132, 133);
+    font-size: 40px;
+}
+#container
+{
+    padding: 10px;
+    margin: 0;
+    width: 60%;
+    background-color: rgb(209, 230, 248);
+    display: flexbox;
+}
+
+.block-1
+{
+    background-color: rgb(46, 41, 78);
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.block-2
+{
+    background-color: rgb(90, 23, 23);
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+
+.block-3
+{
+    background-color: rgb(160, 80, 34);
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
